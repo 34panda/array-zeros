@@ -19,6 +19,12 @@ Test the speed and array performance by implementing the following tasks:
 - There are clever ways of optimizing code.
 - Even if Python is slow, we should carefully write code that is relatively optimized.
 
+---
+
+<img src="Graph.png" alt="image" width="75%" height="auto">
+
+---
+
 ## How to Run 🏃‍♂️
 1. Clone the repository.
 2. Navigate to the project directory.
